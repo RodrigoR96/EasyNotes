@@ -1,2 +1,2 @@
 # EasyNotes
-Simple CRUD spring application 
+Simple CRUD spring application using WEB, JPA, DevTools and MySQL
